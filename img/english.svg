@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_18100" data-name="Rectangle 18100" width="48" height="48" transform="translate(-2 -5)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_630" data-name="Mask Group 630" transform="translate(2 5)" clip-path="url(#clip-path)">
+    <g id="dictionary" transform="translate(-54.915 1.78)">
+      <g id="Page-1_56_" transform="translate(64)">
+        <g id="_x30_57---Dictionary">
+          <path id="Shape_85_" d="M232.777,166.673h1.279l-.64-1.827Z" transform="translate(-221.424 -153.757)" fill="#396cde"/>
+          <path id="Shape_84_" d="M311.472,182.857a.615.615,0,0,0-.615.615v1.23a.615.615,0,1,0,1.23,0v-1.23A.615.615,0,0,0,311.472,182.857Z" transform="translate(-294.252 -170.557)" fill="#396cde"/>
+          <path id="Shape_82_" d="M141.716,0H118.857V34.44h22.859c2.036,0,3.687-1.377,3.687-3.075V3.075A2.842,2.842,0,0,0,144.323.9a4.089,4.089,0,0,0-2.607-.9Z" transform="translate(-118.856)" fill="#396cde"/>
+          <path id="Shape_81_" d="M64,.615v33.21a.615.615,0,0,0,.615.615H66.46V0H64.615A.615.615,0,0,0,64,.615Z" transform="translate(-67.283)" fill="#396cde"/>
+          <path id="Path_88268" data-name="Path 88268" d="M144.382,297a2.05,2.05,0,0,0-1.721-3.164h-1.677a.722.722,0,0,0-.722.722v5.774a.722.722,0,0,0,.722.722s1.545-.007,1.97-.007A2.275,2.275,0,0,0,144.382,297Zm-2.676-1.72h.956a.607.607,0,0,1,0,1.214l-.048,0h-.908Zm1.248,4.324-1.248,0v-1.669h1.248a.832.832,0,1,1,0,1.665Z" transform="translate(-129.432 -280.224)" fill="#fff"/>
+          <path id="Path_88269" data-name="Path 88269" d="M67.018,294.38l-.006-.016a.853.853,0,0,0-1.578,0l-.006.016-2.168,5.693a.722.722,0,0,0,1.349.514l.363-.953h2.5l.363.953a.722.722,0,0,0,1.349-.514Zm-1.5,3.81.7-1.837.7,1.837Z" transform="translate(-59.797 -280.223)" fill="#fff"/>
+          <path id="Path_88270" data-name="Path 88270" d="M211.166,299.238a2.165,2.165,0,1,1,0-3.592.722.722,0,1,0,.808-1.2,3.609,3.609,0,1,0,0,5.984.722.722,0,1,0-.808-1.2Z" transform="translate(-189.157 -280.222)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
